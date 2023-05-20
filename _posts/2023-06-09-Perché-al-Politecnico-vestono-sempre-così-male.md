@@ -2,7 +2,7 @@
 layout: post
 title:  "Perché al Politecnico vestono sempre così male?"
 author: John
-categories: [ Fashion ]
+categories: [ tutorial ]
 image: assets/images/AbeRob.jpg
 featured: true
 ---
