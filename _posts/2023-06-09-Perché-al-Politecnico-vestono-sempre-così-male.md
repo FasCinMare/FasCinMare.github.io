@@ -4,6 +4,7 @@ title:  "Perché al Politecnico vestono sempre così male?"
 author: Maria
 categories: [ Fashion ]
 image: assets/images/AbeRob.jpg
+hidden: false
 ---
 
 Non è raro imbattersi in gruppi di studenti che sembrano essersi alzati appena dal letto, con tanto di look da pigiama party. La vera domanda è perché? Perché non pensare ad un look facile e carino che può funzionare sempre e con cui riscuotere successo?
