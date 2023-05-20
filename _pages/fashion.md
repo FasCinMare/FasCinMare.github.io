@@ -1,14 +1,16 @@
 ---
 layout: page
-title: Cucina
-permalink: /cucina
+title: Fashion
+permalink: /fashion
 comments: true
 ---
 
 <div class="row justify-content-between">
 <div class="col-md-8 pr-5">
 
-<p>Sezione dedicata alla cucina, redatta dal nostro "Scef" Roberto</p>
+<p>Sezione dedicata alla Moda, gestita dalla nostra "proattiva" Maria</p>
+
+
 
 
 <div class="col-md-4">
