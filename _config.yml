@@ -13,9 +13,10 @@ future: true
 
 # Authors
 authors:
-  sal:
+  maria:
     name: Maria
     display_name: Maria
+    avatar: 'assets/images/avatar.png'
     gravatar: e56154546cf4be74e393c62d1ae9f9d4
     email: mariarea@gmail.com
     description: "ragazza non ordinaria, tra le altre cose, amante della moda"
@@ -27,7 +28,7 @@ authors:
     email: wowthemesnet@gmail.com
     web: https://www.wowthemes.net
     twitter: https://twitter.com/wowthemesnet
-    description: "This is the author box. Write a short description of the author here. You are currently previewing Mediumish demo, a Jekyll template compatible with Github pages."
+    description: "Ok the author box. Write a short description of the author here. You are currently previewing Mediumish demo, a Jekyll template compatible with Github pages."
 
 # Plugins
 plugins:
