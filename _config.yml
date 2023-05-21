@@ -13,22 +13,35 @@ future: true
 
 # Authors
 authors:
+  roberto:
+    name: Roberto
+    display_name: Roberto
+    avatar: 'assets/images/Robetar.png'
+    gravatar: e56154546cf4be74e393c62d1ae9f9d4
+    email: roberto@gmail.com
+    description: ""tra mezz'ora giochiamo, ci sei?" "ovvio". Cos'ha da offrire il mondo oltre il calcio? Un bel gateau di patate e sono felice"
+  abele:
+    name: Abele
+    display_name: Abele
+    avatar: 'assets/images/Abetar.png'
+    gravatar: e56154546cf4be74e393c62d1ae9f9d4
+    email: abelesanzari@gmail.com
+    description: "Ingegnere, artista, scrittore, filantropo, cantante. Fa tutto, ma male."
   maria:
     name: Maria
     display_name: Maria
-    avatar: 'assets/images/avatar.png'
+    avatar: 'assets/images/Mariatar.png'
     gravatar: e56154546cf4be74e393c62d1ae9f9d4
     email: mariarea@gmail.com
     description: "ragazza non ordinaria, tra le altre cose, amante della moda"
-  john:
-    name: John
-    display_name: John    
-    avatar: 'assets/images/avatar.png'
-    gravatar: b1cc14991db7a456fcd761680bbc8f81
-    email: wowthemesnet@gmail.com
-    web: https://www.wowthemes.net
-    twitter: https://twitter.com/wowthemesnet
-    description: "Ok the author box. Write a short description of the author here. You are currently previewing Mediumish demo, a Jekyll template compatible with Github pages."
+  elena:
+    name: Elena
+    display_name: Elena
+    avatar: 'assets/images/Eletar.png'
+    gravatar: e56154546cf4be74e393c62d1ae9f9d4
+    email: elenadalponte@gmail.com
+    description: "Parola d'ordine: Fatturare!"
+  
 
 # Plugins
 plugins:
