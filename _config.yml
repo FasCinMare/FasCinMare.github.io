@@ -9,6 +9,7 @@ google_analytics: ''
 disqus: ''
 include: ["_pages"]
 permalink: /:title/
+future: true
 
 # Authors
 authors:
