@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Perché al Politecnico vestono sempre così male?"
-author: Maria
+author: maria
 categories: [ fashion ]
 image: assets/images/AbeRob.jpg
 ---
