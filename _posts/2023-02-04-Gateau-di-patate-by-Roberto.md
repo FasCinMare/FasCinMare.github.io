@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Gateau di patate by <<Scef>> Roberto"
+title:  "Gateau di patate by Scef Roberto"
 author: roberto
 categories: [ cucina ]
 image: assets/images/gateau.jpg
