@@ -10,10 +10,10 @@ disqus: ''
 include: ["_pages"]
 permalink: /:title/
 future: true
+verbose: true
 
 # Authors
 authors:
-
   roberto:
     name: Roberto
     display_name: Roberto
