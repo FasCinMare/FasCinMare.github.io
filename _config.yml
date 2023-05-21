@@ -2,8 +2,8 @@
 name: "FasCin"
 title: "FasCin"
 description: "Il blog del Gruppo MARE, basato su Jekyll, hostato da GitHub Pages con Mediumish template."
-logo: 'assets/images/logo.png'
-favicon: 'assets/images/logo.png'
+logo: 'assets/images/fclogo.jpg'
+favicon: 'assets/images/fclogo.jpg'
 baseurl: ''
 google_analytics: ''
 disqus: ''
@@ -16,28 +16,28 @@ authors:
   roberto:
     name: Roberto
     display_name: Roberto
-    avatar: 'assets/images/Robetar.png'
+    avatar: 'assets/images/Robetar.jpg'
     gravatar: e56154546cf4be74e393c62d1ae9f9d4
     email: roberto@gmail.com
     description: ""tra mezz'ora giochiamo, ci sei?" "ovvio". Cos'ha da offrire il mondo oltre il calcio? Un bel gateau di patate e sono felice"
   abele:
     name: Abele
     display_name: Abele
-    avatar: 'assets/images/Abetar.png'
+    avatar: 'assets/images/Abetar.jpg'
     gravatar: e56154546cf4be74e393c62d1ae9f9d4
     email: abelesanzari@gmail.com
     description: "Ingegnere, artista, scrittore, filantropo, cantante. Fa tutto, ma male."
   maria:
     name: Maria
     display_name: Maria
-    avatar: 'assets/images/Mariatar.png'
+    avatar: 'assets/images/Mariatar.jpg'
     gravatar: e56154546cf4be74e393c62d1ae9f9d4
     email: mariarea@gmail.com
     description: "ragazza non ordinaria, tra le altre cose, amante della moda"
   elena:
     name: Elena
     display_name: Elena
-    avatar: 'assets/images/Eletar.png'
+    avatar: 'assets/images/Eletar.jpg'
     gravatar: e56154546cf4be74e393c62d1ae9f9d4
     email: elenadalponte@gmail.com
     description: "Parola d'ordine: Fatturare!"
