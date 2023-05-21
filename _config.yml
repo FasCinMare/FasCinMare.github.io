@@ -1,11 +1,11 @@
 # Site
 name: "FasCin"
 title: "FasCin"
-description: "Il blog del Gruppo MARE, basato su Jekyll, hostato da GitHub Pages con Mediumish template."
+description: "Il blog del Gruppo MARE, dove tutto fa...scena"
 logo: 'assets/images/fclogo.jpg'
 favicon: 'assets/images/fclogo.jpg'
 baseurl: ''
-google_analytics: ''
+google_analytics: 'G-V3NVEBMB82'
 disqus: ''
 include: ["_pages"]
 permalink: /:title/
